@@ -1,3 +1,2 @@
-eso debe cambiar en master
-esto es de master para lo del rebase
-se reescribio la historia
+aqui hago un cambio del otro branch
+hacemos algo para el rebase
